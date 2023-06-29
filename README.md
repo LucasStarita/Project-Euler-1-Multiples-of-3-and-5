@@ -1,4 +1,4 @@
-# Project-Euler-1-Multiples-of-3-and-5-rounding-error
+# Project-Euler-1-Multiples-of-3-and-5
 Project Euler #1: Multiples of 3 and 5 rounding error is part of some Hackerrank's "ProjectEuler+" challenges. <br />
 The goal is to find the sum of all multiples of 3 or 5 below N, for a list of T lines as an input containing Ni. <br />
 It might look trivial to solve, but N could be anything between 1 and 10^9 so my first approximation of iterating and identifying multiples of 3 and 5 wasn't an option. <br />
